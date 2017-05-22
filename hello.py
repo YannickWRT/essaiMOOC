@@ -4,5 +4,5 @@ def coucou(msg):
 	raw_input("Enter pour terminer...")
 	return
 	
-
+print("Appel de la fonction coucou('Hello')")
 coucou("Hello !")
